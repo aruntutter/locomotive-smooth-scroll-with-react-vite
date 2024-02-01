@@ -12,8 +12,8 @@
 
 ## Links
 
-- Solution URL: [GitHub Repository]()
-- Live Demo: [Live Demo URL]()
+- Solution URL: [GitHub Repository](https://github.com/aruntutter/locomotive-smooth-scroll-with-react-vite/tree/main)
+- Live Demo: [Live Demo URL](https://astonishing-elf-2803d0.netlify.app/)
 
 ## Description
 
@@ -21,7 +21,7 @@ The Locomotive Smooth Scroll project showcases a webpage with smooth scrolling e
 
 ## Demo
 
-Explore the live demo [here]().
+Explore the live demo [here](https://astonishing-elf-2803d0.netlify.app/).
 
 ## Features
 
