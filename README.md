@@ -19,10 +19,6 @@
 
 The Locomotive Smooth Scroll project showcases a webpage with smooth scrolling effects using the Locomotive Scroll library. It features multiple sections with different background colors and scroll speeds, providing an engaging and visually appealing experience.
 
-## Screenshot/Gif
-
-![Gif 1](gif1/gif1.png)
-
 ## Demo
 
 Explore the live demo [here]().
